@@ -1,8 +1,12 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-Some metadata in an .git subdirectory is created. I need to do this because it tells git to create an repository and make it possible to track file changes.
+Some metadata in a subdirectory is created. I need to do this because it tells git to create an repository and make it possible to track file changes.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is connected to the working directory and the repository, in a way that it is kind of a middle part. Files to be added
-to the repository must be in the working directory. By a commit order they are made part of the repository.
+to the repository must be in the working directory. By the commit command they are made part of the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can review my changes before i commit them via the command "git diff --staged" and make sure that i obey to this rule.
