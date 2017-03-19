@@ -21,3 +21,8 @@ How do the diagrams help you visualize the branch structure?
 
 The diagrams help me by showing me an easy to understand visualisazion of my branch structure. By making a diagram i get a good overview of my branches
 and am less in danger to get confused when there are many branches in the commit history.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches together is that the changes made in both branches are now part of a single branch. They are now sorted in this branch
+via timestamp.
