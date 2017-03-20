@@ -25,4 +25,10 @@ and am less in danger to get confused when there are many branches in the commit
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result of merging two branches together is that the changes made in both branches are now part of a single branch. They are now sorted in this branch
-via timestamp.
+via timestamp. We represent in in the diagram the way we do to show the parents of each commit, because git stores this information as well and it makes
+it easier to compare different commits and to unterstand the differences between them.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging makes things easier often, because it saves much time. If there is no difficult situation to merge there are no real cons. On the pro side of
+doing everything manual is, of course, the fact that you have full control of the merge.
