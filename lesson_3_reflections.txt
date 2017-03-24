@@ -30,4 +30,4 @@ generally harder to collaborate successfully. Collaboration would mean to merge 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+I would make changes in a separate branch if i am not so sure about them or if i collaborate with others and want them to look about these changes first.
