@@ -24,7 +24,8 @@ The benefit of this is that you can easily compare it to your local master with 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+Without using Git or GitHub i would probably use something like SVN like when i went to University :) Without such a version control system it would be
+generally harder to collaborate successfully. Collaboration would mean to merge changes manually together more often.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
