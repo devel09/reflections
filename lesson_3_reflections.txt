@@ -19,7 +19,7 @@ it instead.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+The benefit of this is that you can easily compare it to your local master with git diff. So you are able to solve conflicts even offline.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
